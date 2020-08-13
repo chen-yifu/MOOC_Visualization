@@ -272,6 +272,20 @@
           "link": "https://www.coursera.org/account/accomplishments/verify/XBA3L7AW2BH9",
           "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
           "size": 30000
+        },
+        {
+          "hero": "Introduction to Deep Learning & Neural Networks with Keras",
+          "name": "IBM AI Engineering Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/verify/GG6C39E9S5YY",
+          "img":  "https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png",
+          "size": 30000
+        },
+        {
+          "hero": "Deep Neural Networks with PyTorch",
+          "name": "IBM AI Engineering Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/verify/D2KZU4BLU8CN",
+          "img":  "https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png",
+          "size": 30000
         }
       ]
     },
