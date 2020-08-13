@@ -165,43 +165,6 @@
       ]
     },
     {
-      "course": "TensorFlow in Practice Specialization",
-      "name": "Completed",
-      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/3YNZGZQR3332",
-      "img":  "https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png",
-      "size": 60000,
-      "children": [
-        {
-          "course": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
-          "name": "TensorFlow in Practice Specialization",
-          "link": "https://www.coursera.org/account/accomplishments/verify/M4MNL5K4ZW3D",
-          "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
-          "size": 30000
-        },
-        {
-          "course": "Convolutional Neural Networks in TensorFlow",
-          "name": "TensorFlow in Practice Specialization",
-          "link": "https://www.coursera.org/account/accomplishments/verify/XUEBY7QHPU6G",
-          "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
-          "size": 30000
-        },
-        {
-          "course": "Natural Language Processing in TensorFlow",
-          "name": "TensorFlow in Practice Specialization",
-          "link": "https://www.coursera.org/account/accomplishments/verify/DT6NSUGAE7TK",
-          "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
-          "size": 30000
-        },
-        {
-          "course": "Sequences, Time Series and Prediction",
-          "name": "TensorFlow in Practice Specialization",
-          "link": "https://www.coursera.org/account/accomplishments/verify/HKSQPPQH3QTS",
-          "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
-          "size": 30000
-        }
-      ]
-    },
-    {
       "course": "IBM AI Engineering Specialization",
       "name": "Completed",
       "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/ZA82U82UGJWU",
