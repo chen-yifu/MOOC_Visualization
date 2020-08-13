@@ -47,42 +47,40 @@
       ]
     },
     {
-      "course": "TensorFlow in Practice Specialization",
+      "course": "Deep Learning Specialization",
       "name": "Completed",
-      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/3YNZGZQR3332",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/ERNA9Y4RAFKZ",
       "img":  "https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png",
       "size": 60000,
       "children": [
         {
-          "course": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
-          "name": "TensorFlow in Practice Specialization",
-          "link": "https://www.coursera.org/account/accomplishments/verify/M4MNL5K4ZW3D",
+          "course": "Structuring Machine Learning Projects",
+          "name": "Deep Learning Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/certificate/QKKXRV7VFE3X",
           "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
           "size": 30000
         },
         {
-          "course": "Convolutional Neural Networks in TensorFlow",
-          "name": "TensorFlow in Practice Specialization",
-          "link": "https://www.coursera.org/account/accomplishments/verify/XUEBY7QHPU6G",
+          "course": "Convolutional Neural Networks",
+          "name": "Deep Learning Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/certificate/MX5KNEKEGVYX",
           "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
           "size": 30000
         },
         {
-          "course": "Natural Language Processing in TensorFlow",
-          "name": "TensorFlow in Practice Specialization",
-          "link": "https://www.coursera.org/account/accomplishments/verify/DT6NSUGAE7TK",
+          "course": "Neural Networks and Deep Learning",
+          "name": "Deep Learning Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/certificate/DY5ZPFEKJXSJ",
           "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
           "size": 30000
         },
         {
-          "course": "Sequences, Time Series and Prediction",
-          "name": "TensorFlow in Practice Specialization",
-          "link": "https://www.coursera.org/account/accomplishments/verify/HKSQPPQH3QTS",
+          "course": "Sequence Models",
+          "name": "Deep Learning Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/certificate/CVQS4F3AGEHP",
           "img":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/922px-TensorFlowLogo.svg.png",
           "size": 30000
-        }
-      ]
-    },
+        },
         {
           "course": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
           "name": "Deep Learning Specialization",
