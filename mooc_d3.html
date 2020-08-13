@@ -39,9 +39,6 @@
     <section id="vis"></section>
 <script>
 
-// some colour variables
-  var tcBlack = "#FFFFFF";
-
 // rest of vars
 var w = 1200,
     h = 1200,
@@ -138,9 +135,9 @@ function update() {
   var setEvents = images
           // Append hero text
           .on( 'click', function (d) {
-              d3.select("h1").html(d.hero);
+              d3.select("h1").html(d.course);
               d3.select("h2").html(d.name);
-              d3.select("h3").html ("Show the course certificate for " + "<a href='" + d.link + "' >"  + d.hero + " ⇢"+ "</a>" );
+              d3.select("h3").html ("Show the course certificate for " + "<a href='" + d.link + "' >"  + d.course + " ⇢"+ "</a>" );
            })
 
           .on( 'mouseenter', function() {
@@ -173,7 +170,7 @@ function update() {
       .attr("x", x_browser)
       .attr("y", y_browser +15)
       .attr("fill", "#4682B4")
-      .text(function(d) { return d.hero; });
+      .text(function(d) { return d.course; });
 
 
   // Exit any old nodes.
