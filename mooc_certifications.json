@@ -494,6 +494,43 @@
           "size": 30000
         }
       ]
+    },
+    {
+      "course": "User Interface Design Specialization",
+      "name": "(in progress)",
+      "link": "",
+      "img":  "https://enviroleaders.ca/app/uploads/2016/09/ibm-logo-SQUARE.png",
+      "size": 60000,
+      "children": [
+        {
+          "course": "Introduction to UI Design",
+          "name": "User Interface Design Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/certificate/F37CXM2D223K",
+          "img":  "https://cdn0.iconfinder.com/data/icons/elpis/144/Web_Design-512.png",
+          "size": 30000
+        },
+        {
+          "course": "User Research and Design",
+          "name": "User Interface Design Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/certificate/BSDZJRKPEJDG",
+          "img":  "https://cdn0.iconfinder.com/data/icons/elpis/144/Web_Design-512.png",
+          "size": 30000
+        },
+        {
+          "course": "Prototyping and Design",
+          "name": "User Interface Design Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/certificate/M6Q9U8CLE2BX",
+          "img":  "https://cdn0.iconfinder.com/data/icons/elpis/144/Web_Design-512.png",
+          "size": 30000
+        },
+        {
+          "course": "Evaluating User Interfaces",
+          "name": "User Interface Design Specialization",
+          "link": "https://www.coursera.org/account/accomplishments/certificate/33YMYK8L4KFN",
+          "img":  "https://cdn0.iconfinder.com/data/icons/elpis/144/Web_Design-512.png",
+          "size": 30000
+        }
+      ]
     }
   ]
 }
