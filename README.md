@@ -3,7 +3,7 @@ An interactive visualization for MOOC certifications
 
 This visualization uses JavaSript D3 to make the nodes repel eachother and behave dynamically.
 
-To adapt it to your own certificates, replace the data in mooc_certificates.json, and change the following line of code:
+To adapt it to your own certificates, replace the data in `mooc_certificates.json`, and change the following line of code:
 
 `d3.json("your_link.json", function(json) {...}`
 
