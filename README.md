@@ -9,4 +9,4 @@ To adapt it to your own certificates, replace the data in `mooc_certifications.j
 
 [Demo](www.yifu-chen.com)
 
-This project is adopted from [Force layout with images](http://bl.ocks.org/eesur/be2abfb3155a38be4de4) by [Sundar Singh](http://bl.ocks.org/eesur)
+A derivative work of: [Force layout with images](http://bl.ocks.org/eesur/be2abfb3155a38be4de4) by [Sundar Singh](http://bl.ocks.org/eesur)
