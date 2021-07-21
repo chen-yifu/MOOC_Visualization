@@ -3,7 +3,7 @@
   "course": "Coursera",
   "name": "Coursera",
   "img": "https://blog.coursera.org/wp-content/uploads/2017/07/coursera-fb.png",
-  "link": "https://yifuchen.people.stanford.edu/mooc-certificates",
+  "link": "https://yifuchen.people.stanford.edu/coursework",
   "children": [
     {
       "course": "Machine Learning with TensorFlow on Google Cloud Platform Specialization",
