@@ -1,7 +1,7 @@
 {
   "name": "Coursera",
   "img": "https://blog.coursera.org/wp-content/uploads/2017/07/coursera-fb.png",
-  "name": "Coursera",
+  "course": "Coursera",
   "link": "https://yifuchen.people.stanford.edu/mooc-certificates",
   "children": [
     {
